@@ -1,7 +1,6 @@
-vendor/
+# PHPStorm
+.idea
 
-.vagrant/
-
-.idea/workspace.xml
-
-composer.lock
+# composer
+/vendor
+/composer.lock
